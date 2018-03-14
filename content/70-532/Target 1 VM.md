@@ -1,5 +1,5 @@
 +++
-title = "Create and manage azure resource manager resource machines."
+title = "VMs."
 description = "Virtual Machines"
 weight = 2
 +++
